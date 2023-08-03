@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="563.033" height="571.14" viewBox="0 0 563.033 571.14">
+  <g id="그래프" transform="translate(-240 -3103)">
+    <path id="패스_246" data-name="패스 246" d="M791.912,479.918,706.469,598.932A263.106,263.106,0,0,1,693.438,176.26l90.527,115.133a116.62,116.62,0,0,0,7.947,188.525Z" transform="translate(-353.36 3004.012)" fill="#b0b0b0"/>
+    <path id="패스_247" data-name="패스 247" d="M845.8,115.64V246.346c-1.266,0-2.523.033-3.771.083a103.538,103.538,0,0,0-60.583,22.436l-80.8-102.758a233.7,233.7,0,0,1,136.65-50.3Q841.534,115.644,845.8,115.64Z" transform="translate(-341.148 3017.741)" fill="#3e5066"/>
+    <path id="패스_248" data-name="패스 248" d="M1162.965,401.21c0,2.835-.041,5.651-.132,8.466-3.7,127.271-90.663,233.651-208.314,266.562a285.411,285.411,0,0,1-77.124,10.542h-.365a284.256,284.256,0,0,1-162.41-50.886l92.76-129.205a126.044,126.044,0,0,0,69.651,21.1h.365A126.557,126.557,0,0,0,1003.7,409.676q.273-4.192.273-8.466A126.59,126.59,0,0,0,877.395,274.627h-.365V115.64h.365C1035.106,115.64,1162.965,243.5,1162.965,401.21Z" transform="translate(-359.931 2987.36)" fill="#f5df4d"/>
+    <text id="시설개선_60_" data-name="시설개선 
+60%" transform="translate(721.514 3393)" fill="#707070" font-size="25" font-family="MalgunGothic, Malgun Gothic"><tspan x="-53" y="0">시설개선</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan font-family="SegoeUI, Segoe UI"><tspan x="-23" y="28">60%</tspan></tspan></text>
+    <text id="프로그램_개선_30_" data-name="프로그램
+개선 
+30%" transform="translate(316.689 3368)" fill="#fff" font-size="25" font-family="MalgunGothic, Malgun Gothic"><tspan x="-50" y="0">프로그램</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-28" y="28">개선</tspan><tspan y="28" font-family="SegoeUI, Segoe UI"> </tspan><tspan font-family="SegoeUI, Segoe UI"><tspan x="-23" y="56">30%</tspan></tspan></text>
+    <text id="기타_10_" data-name="기타 
+10%" transform="translate(448.846 3200)" fill="#fff" font-size="25" font-family="MalgunGothic, Malgun Gothic"><tspan x="-28" y="0">기타</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan font-family="SegoeUI, Segoe UI"><tspan x="-23" y="28">10%</tspan></tspan></text>
+  </g>
+</svg>

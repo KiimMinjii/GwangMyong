@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="234.646" height="19" viewBox="0 0 234.646 19">
+  <g id="area" transform="translate(-1396.354 -486)">
+    <path id="Icon_awesome-home" data-name="Icon awesome-home" d="M8.233,5.666,2.818,10.125v4.813a.47.47,0,0,0,.47.47L6.579,15.4a.47.47,0,0,0,.468-.47V12.119a.47.47,0,0,1,.47-.47H9.4a.47.47,0,0,1,.47.47v2.809a.47.47,0,0,0,.47.471l3.29.009a.47.47,0,0,0,.47-.47V10.122L8.682,5.666A.358.358,0,0,0,8.233,5.666ZM16.785,8.7,14.33,6.673V2.606a.352.352,0,0,0-.352-.352H12.333a.352.352,0,0,0-.352.352V4.738L9.351,2.575a1.41,1.41,0,0,0-1.791,0L.127,8.7a.352.352,0,0,0-.047.5l.749.91a.352.352,0,0,0,.5.048L8.233,4.462a.358.358,0,0,1,.449,0l6.908,5.689a.352.352,0,0,0,.5-.047l.749-.91a.352.352,0,0,0-.05-.5Z" transform="translate(1396.355 487.467)" fill="#add993"/>
+    <text id="Home" transform="translate(1418 501)" fill="#707070" font-size="13" font-family="NotoSansKR-Thin, Noto Sans KR" font-weight="200"><tspan x="0" y="0">Home</tspan></text>
+    <text id="후원_자원봉사" data-name="후원/자원봉사" transform="translate(1471 501)" fill="#707070" font-size="13" font-family="NotoSansKR-Thin, Noto Sans KR" font-weight="200" letter-spacing="-0.05em"><tspan x="0" y="0">후원/자원봉사</tspan></text>
+    <text id="자원봉사안내" transform="translate(1562 501)" fill="#707070" font-size="13" font-family="NotoSansKR-Thin, Noto Sans KR" font-weight="200" letter-spacing="-0.05em"><tspan x="0" y="0">자원봉사안내</tspan></text>
+    <path id="다각형_1" data-name="다각형 1" d="M3.5,0,7,6H0Z" transform="translate(1464.5 493.298) rotate(90)" fill="#add993"/>
+    <path id="다각형_2" data-name="다각형 2" d="M3.5,0,7,6H0Z" transform="translate(1555.5 493.298) rotate(90)" fill="#add993"/>
+  </g>
+</svg>

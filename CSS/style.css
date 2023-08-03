@@ -1,0 +1,434 @@
+@charset "utf-8";
+
+/* 초기화 */
+html,body,h1,h2,h3,h4,h5,h6,p,span,li,ul,div {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+ul, li, ol {
+    list-style: none;
+}
+
+
+/* 공통 */
+.contain {
+    width: 1440px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.wrap3 {
+    width: 1150px;
+    margin: 0 auto;   
+    overflow: hidden;
+} 
+
+h1,h2,h3,h4,h5,h6,p,span,li,ul {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.wrap {
+    width: 100%;
+    height: 100% ;    
+    background-image: url(../IMAGE/all_bg.svg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom;
+}
+
+#warp5 {
+    width: 1920px;
+    height: 100%;
+    margin: 0 auto;   
+    overflow: hidden;
+}
+
+
+/* 헤더 */
+header {
+    height: 100px;
+    overflow: hidden; 
+}
+
+h1 img {
+    width: 200px;  
+    float: left;
+    margin: 16px 140px 0px 0px;
+    box-sizing: border-box;
+}
+
+header #nav nav ul li {
+    float: left;
+}
+
+header #nav nav ul li a {
+    font-size: 20px;
+    font-weight: 400;
+    padding: 5px 35px 5px 35px;
+    box-sizing: border-box;
+    color: #707070;
+    line-height: 100px;
+}
+
+header #nav nav ul li a:hover {
+    color: #F5DF4D;
+    font-weight: 700;
+}
+
+#ham img {
+    float: right;
+    width: 28px;
+    margin-top: 40px;
+    box-sizing: border-box;
+}
+
+
+
+/* 배너 */
+.banner {
+    height: 980px;   
+    position: relative;
+    clear: both;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#banner_typo {
+    height: 500px;
+    width: 500px;
+    background-image: url(../IMAGE/banner1_typo.svg);
+    background-size: 430px;
+    background-repeat: no-repeat;
+    margin-top: 280px;
+    margin-right: 20px;
+    box-sizing: border-box;
+    position: absolute;    
+    float: left;
+}
+
+#banner_img {
+    height: 782px;
+    width: 100%;
+    margin-top: 80px;    
+    box-sizing: border-box;
+    background-image: url(../IMAGE/banner1.png);
+    background-repeat: no-repeat;
+    background-size: 1250px;
+    background-position: right;
+    float: left ;
+}
+
+
+
+
+/* 메인컨텐츠 */
+/* 광명원 이야기 */
+#story{
+    padding-top: 110px;
+    height: 1000px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+#title_box1 {
+    width: 235px;
+    height: 25px; 
+    position: relative;
+}
+
+#deco_box1 {
+    height: 15px;
+    background-color: #FDDB00;
+    bottom: 0px;
+}
+
+#title_box1 h3 {
+    float: right;
+    position: absolute;
+    top:-30px;
+}
+
+
+h3 {
+    margin-left: 50px;
+    font-size: 30px;
+    color:#25364B;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 100;
+    margin: 0px 0px 70px 80px;
+    color: #707070;    
+    box-sizing: border-box;
+}
+
+.event {
+    clear: both;
+    height: 700px;
+}
+
+#event1, #event2, #event3 {
+    width: 418px;
+    height: 551px; 
+    background-size: cover;   
+}
+
+#event1 {
+    background-image: url(../IMAGE/event1.png);
+    float: left;
+}
+
+#event1:hover {
+    background-image: url(../IMAGE/event1_ho.png);
+}
+
+#event2 {
+    background-image: url(../IMAGE/news.png);
+    float: left;
+    margin: 0px 93px 0px 93px;
+    box-sizing: border-box;
+}
+
+#event2:hover {
+    background-image: url(../IMAGE/news_ho.png);
+}
+
+#event3 {
+    background-image: url(../IMAGE/servant.png);
+    float: left;
+}
+
+#event3:hover {
+    background-image: url(../IMAGE/servant_ho.png);
+}
+
+
+/* 사업안내 */
+.wrap_guide {
+    height: 880px;
+    clear: both;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+}
+
+
+#title_box2 {
+    width: 175px;
+    height: 40px; 
+    background-color: #FDDB00;
+    position: relative;
+    
+}
+
+#deco_box2 {
+    height: 15px;
+    padding-top: 25px;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+#title_box2 h3 {
+    float: right;
+    position: absolute;
+    top: -5px
+}
+
+#warp6{
+    width: 1520px;
+    height: 570px;
+    margin: 0 auto;
+}
+
+#deco_g {
+    height: 570px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 50px;
+    box-sizing: border-box;
+    position: relative;
+    background-image: url(../IMAGE/deco_pattern1.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 520px;
+}
+
+#guide h4 {
+    margin: 10px 0px 0px 80px;   
+}
+
+#banner2 {
+    width: 1150px;
+    height: 430px;
+    background-image: url(../IMAGE/banner2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    box-shadow: 0px 4px 6px #00000047;
+}
+
+
+/* 광명원의 후원금 */
+.support {
+    height: 1200px;
+    overflow: hidden;
+}
+
+#info {
+    width: 562px;
+    height: 570px;
+    background-image: url(../IMAGE/graph.svg);
+    float: left;
+    background-size: cover;
+}
+
+#line {
+    width: 190px;
+    height: 15px;
+    background-color: #FDDB00;
+}
+
+#info_an {
+    width: 685px;
+    height: 310px;
+    float: right;
+}
+
+h5 {
+    margin: 28px 0px 0px 62px;
+    font-size: 62px;
+    font-weight: 700px;
+    color: #707070;   
+}
+
+#how, #pro {
+    margin-left: 62px;
+    color: #707070; 
+    font-weight: 100;
+    line-height: 35px;
+}
+
+
+#how {
+    font-size: 62px;
+    line-height:60px;
+}
+
+#pro {
+    margin-left: 65px;
+    margin-top: 35px;
+    letter-spacing: -0.5px;
+    font-size: 25px;
+}
+
+/* 하단설명 */
+#info_an2 {
+    height: 432px;
+    margin-top: 150px;
+}
+
+#prize {
+    width: 1002px;
+    height: 174px;
+    background-image: url(../IMAGE/Awards.png);
+    margin-top: 70px;
+    background-size: cover;
+}
+
+h6 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #F5DF4D;
+    line-height: 50px;
+}
+
+#prize_an {
+    width: 1002px;
+    height: 62px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 100;
+    word-spacing: -1.5px;
+    line-height: 30px;
+    color: #fff;
+}
+
+.button {
+    height: 250px;
+}
+
+#spon {
+    width: 170px;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 50px;
+    float: right;
+    margin-top: 80px;
+    border: 0;
+    outline: 0;
+}
+
+
+/* 푸터 */
+footer {
+    height: 80px;
+    background-color: #25364B;
+    box-sizing: border-box;
+}
+
+#nav_2 nav ul li a, p {
+    float: left;
+}
+
+#nav3, #nav4 {
+    font-size: 15px;
+    font-weight: 300;
+    color: #E9E9E9;
+    display: inline-block;
+    margin: 0px 10px 0px 10px;
+    line-height: 80px;
+}
+
+#logo2 img {
+    width: 40px;
+    margin: 0 auto;
+    float: left;
+    overflow: hidden;
+    padding: 20px 0px 0px 390px ;
+}
+
+#site {
+    width: 126px;
+    height: 20px;
+    float: right;
+    overflow: hidden; 
+    margin-top: 28px;
+    box-sizing: border-box;
+}
+
+#facebook, #blog, #instar {
+    width: 21px;
+    float: left;
+}
+
+#facebook {
+    margin-right: 15px;
+    box-sizing: border-box;
+}
+
+#blog {
+    margin: 0px 16px 0px 16px;
+    box-sizing: border-box;
+}
+
+#instar {
+    margin-left: 16px;
+    box-sizing: border-box;
+}
